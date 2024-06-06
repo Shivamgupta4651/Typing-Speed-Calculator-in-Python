@@ -1,4 +1,8 @@
 # Typing-Speed-Calculator-in-Python
+Develop a Python program that prompts the user to type a given set of words or
+sentences. The program should record the time taken to type and calculate the
+typing speed in WPM. Provide feedback on accuracy and speed.
+
     import time
 
     def calculate_wpm(time_elapsed, num_words):
